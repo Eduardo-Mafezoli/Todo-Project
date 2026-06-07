@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./src/assets/images/cover.png" alt="Todo Project" width="100%" />
-</div>
-
 ---
 
 # ✅ Todo Project
@@ -16,6 +12,12 @@ A clean and minimal **task management app** built with React and TypeScript. Cre
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [Biome](https://biomejs.dev/) — linting & formatting
+
+---
+
+<div align="center">
+  <img src="./src/assets/images/cover.png" alt="Todo Project" width="100%" />
+</div>
 
 ---
 
